@@ -451,4 +451,32 @@ secund color : #eClc23
 .copyright .m2{
     text-align: right;
 }
+.face:hover{
+    -webkit-transition:all.3s ease-in-out;
+    -moz-transition:all.3s ease-in-out;
+    -o-transition:all.3s ease-in-out;
+    transition:all.3s ease-in-out;
+    color: #3578E5;
+}
+.twitt:hover{
+    -webkit-transition:all.3s ease-in-out;
+    -moz-transition:all.3s ease-in-out;
+    -o-transition:all.3s ease-in-out;
+    transition:all.3s ease-in-out;
+    color: #3578E5;
+}
+.yout:hover{
+    -webkit-transition:all.3s ease-in-out;
+    -moz-transition:all.3s ease-in-out;
+    -o-transition:all.3s ease-in-out;
+    transition:all.3s ease-in-out;
+    color: #FF0000;
+}
+.plus:hover{
+    -webkit-transition:all.3s ease-in-out;
+    -moz-transition:all.3s ease-in-out;
+    -o-transition:all.3s ease-in-out;
+    transition:all.3s ease-in-out;
+    color: #db4a39;
+}
 /*End Copyright*/
